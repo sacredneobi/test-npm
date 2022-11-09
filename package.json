@@ -1,6 +1,6 @@
 {
-  "name": "test-npm",
-  "version": "1.0.1",
+  "name": "is-sacred",
+  "version": "1.0.2",
   "description": "test npm package",
   "main": "index.js",
   "scripts": {
